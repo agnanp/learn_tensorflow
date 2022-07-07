@@ -1,2 +1,1 @@
-# learntf
-kumpulan notebook hasil belajar
+# Kumpulan notebook hasil belajar
